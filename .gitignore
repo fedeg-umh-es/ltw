@@ -1,0 +1,32 @@
+# Build artifacts
+src/*.o
+test/*.o
+ltw
+test/test_8x8
+
+# Compiled binaries anywhere
+*.o
+*.a
+*.out
+
+# Data files (too large for git; see data/README.md for download instructions)
+data/*.pgm
+data/*.png
+data/*.tif
+data/*.bmp
+
+# Experiment outputs
+results/*.ltw
+results/*.pgm
+results/*.csv
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code workspace
+.claude/
