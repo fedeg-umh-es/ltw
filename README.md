@@ -253,6 +253,18 @@ ltw-codec/
 
 ---
 
+## Citation
+
+If you use this code, please cite the software repository and the related article.
+
+**Software repository**  
+Federico García Crespí et al. *LTW*. GitHub repository. [doi:10.5281/zenodo.19642457](https://doi.org/10.5281/zenodo.19642457)
+
+**Related manuscript**  
+[Autores]. “[TÍTULO DEL PAPER].” Submitted manuscript.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).

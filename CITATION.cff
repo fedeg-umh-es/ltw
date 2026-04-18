@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: LTW
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Garcia Crespi
+    given-names: Federico
+repository-code: https://github.com/fedeg-umh-es/ltw
+doi: 10.5281/zenodo.19642457
+license: MIT
+version: v1.0.1
+date-released: 2026-04-18
